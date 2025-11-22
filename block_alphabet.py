@@ -1,5 +1,3 @@
-# block_alphabet.py
-# ASCII block letters in "██" style, large size only, better spacing for visibility
 
 letters = {
     "A": [
@@ -151,8 +149,8 @@ letters = {
         " █    █ ",
         " █    █ ",
         " █    █ ",
-        " █    █ ",
         "  ████  ",
+        "      █ ",
         "        "
     ],
     "R": [
